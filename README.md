@@ -58,7 +58,7 @@ for i in range(n):
 ```        
 
 ## Output:
-![gaussian elimination]()
+![model](output.png)
 
 
 ## Result:
